@@ -1,0 +1,1 @@
+O projeto consiste em um sistema de reserva de hotéis, que permite os usúarios a cadastrar, editar, excluir e listar os hotéis. Além de permitir os usúarios a selecionar a opção para ordenar a lista de hotéis por preço da diária ou por classificação na tela inicial.
