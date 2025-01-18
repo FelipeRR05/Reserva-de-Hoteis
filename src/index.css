@@ -1,0 +1,23 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+body,
+input,
+button,
+textarea,
+select {
+  font-family: "Poppins", sans-serif;
+}
+
+a {
+  text-decoration: none;
+  color: #212529;
+}
+
+body {
+  background-color: #f8f9fa;
+  color: #212529;
+}
